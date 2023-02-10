@@ -31,6 +31,7 @@ NXP:
 
     i.MX RT10xx and RT116x/7x series crossover MCUs
     LPC5500 series
+    MCX N series
 
 
 Renesas:
@@ -38,7 +39,7 @@ Renesas:
     Synergy Platform
     RX Family of MCUs
     RA Family of MCUs
-    RZ Family of MPUs
+    RZ/A, RZ/N and RZ/T Family of MPUs
 
 --------------------------------------------------------------------------------
 
